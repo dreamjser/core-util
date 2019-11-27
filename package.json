@@ -9,7 +9,10 @@
   "keywords": [
     "util"
   ],
-  "git": "git@github.com:dreamjser/core-util.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreamjser/core-util"
+  },
   "author": "dreamjser",
   "license": "ISC",
   "dependencies": {
