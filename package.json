@@ -1,0 +1,17 @@
+{
+  "name": "@dreamjser/core-util",
+  "version": "1.0.0",
+  "description": "the most commonly used in develop",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "util"
+  ],
+  "author": "dreamjser",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.2.2"
+  }
+}
