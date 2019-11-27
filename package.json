@@ -15,7 +15,7 @@
   },
   "author": "dreamjser",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "mocha": "^6.2.2"
   }
 }
