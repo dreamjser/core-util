@@ -4,7 +4,7 @@
   "description": "the most commonly used in develop",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "nyc mocha --timeout=3000"
   },
   "keywords": [
     "util"
@@ -16,6 +16,8 @@
   "author": "dreamjser",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^6.2.2"
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "nyc": "^14.1.1"
   }
 }

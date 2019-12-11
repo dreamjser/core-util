@@ -2,11 +2,11 @@ exports.decodeQueryString = (str) => {
   let queryObject = {}, queryArrary;
 
   if(!str) {
-    throw Error('param must be input');
+    throw 'param must be input';
   }
 
   if(typeof str !== 'string') {
-    throw Error('param must be string');
+    throw 'param must be string';
   }
 
   queryArrary = str.split('&');
