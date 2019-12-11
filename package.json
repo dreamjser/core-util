@@ -1,6 +1,6 @@
 {
   "name": "@dreamjser/core-util",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "the most commonly used in develop",
   "main": "index.js",
   "scripts": {
