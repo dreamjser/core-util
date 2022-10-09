@@ -13,6 +13,9 @@
     "type": "git",
     "url": "https://github.com/dreamjser/core-util"
   },
+  "publishConfig": {
+    "registry": "http://121.41.122.104:8081/repository/hosted-npm/"
+  },
   "author": "dreamjser",
   "license": "ISC",
   "devDependencies": {
